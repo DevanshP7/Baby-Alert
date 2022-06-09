@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&family=Tangerine&display=swap');
+
+body {
+    background-size: contain;
+}
+
+.heading {
+    font-size: 40px;
+    width: 100%;
+    margin: 5px;
+    font-family: 'Rubik Moonrocks', cursive;
+    color: blue;
+
+}
+
+#status {
+    font-size: 40px;
+    font-family: 'Tangerine', cursive;
+    color: crimson;
+}
+
+#number {
+    font-size: 40px;
+    font-family: cursive;
+    color: rgb(50, 20, 220);
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+    padding-top: 5px;
+    margin-top: -2px;
+}
