@@ -28,3 +28,11 @@ body {
     padding-top: 5px;
     margin-top: -2px;
 }
+
+canvas{
+    background-color: white;
+    border-color: black;
+    border-width: 10px;
+    
+
+}
